@@ -27,12 +27,13 @@ This is for people who feel ready to hit the ground running
 - [Python for Biologists](https://pythonforbiologists.com/) - Teaches
   everything an intro Python course would teach, but frames everything in terms
   of biological questions.
+- [Practical Computing for Biologists](http://practicalcomputing.org)
 - [Rosalind](http://rosalind.info/problems/locations/) - List of problems that
   build on each other in complexity, starting from calculating GC content to
   assembling genomes!
+- [swirl](http://swirlstats.com/) - Interactive R programming courses in the
+  R console
 - [Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
-- [Practical Computing for Biologists](http://practicalcomputing.org)
-
 
 ## Intermediate
 
