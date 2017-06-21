@@ -31,6 +31,7 @@ This is for people who feel ready to hit the ground running
   build on each other in complexity, starting from calculating GC content to
   assembling genomes!
 - [Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
+- [Practical Computing for Biologists](http://practicalcomputing.org)
 
 
 ## Intermediate
