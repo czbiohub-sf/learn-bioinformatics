@@ -47,7 +47,8 @@ This is for people who feel ready to hit the ground running
   especially: #course
   - [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics)
     #course #python
-  - [Command Line Tools for Genomic Data Science](https://www.coursera.org/learn/genomic-tools) #course
+  - [Command Line Tools for Genomic Data Science](https://www.coursera.org/learn/genomic-tools)
+    #course #unix
 - [How to think like a computer scientist](http://www.openbookproject.net/thinkcs/python/english2e/)
   #book
 - [Learn Python the Hard Way](https://learnpythonthehardway.org/) #book
