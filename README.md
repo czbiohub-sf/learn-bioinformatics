@@ -93,6 +93,7 @@ This is for people who feel ready to hit the ground running
 - [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
   \- A classic text describing the fundamental algorithms of storing and
   transforming information.
+- [Data Structures](https://stepik.org/course/Data-Structures-579) #book
 - [How do I learn machine learning?]
   
 ## Advanced
