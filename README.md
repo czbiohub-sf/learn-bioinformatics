@@ -64,8 +64,6 @@ This is for people who feel ready to hit the ground running
 - [Coursera "Bioinformatics tag"](https://www.coursera.org/courses?query=bioinformatics&languages=en) #course
 - [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science),
   especially: #course
-  - [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics)
-    #course #python
   - [Command Line Tools for Genomic Data Science](https://www.coursera.org/learn/genomic-tools)
     #course #unix
 - [How to think like a computer scientist](http://www.openbookproject.net/thinkcs/python/english2e/)
