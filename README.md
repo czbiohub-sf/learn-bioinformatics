@@ -8,6 +8,25 @@ As always, the absolute *best* way to learn something is through a **project**.
 It is highly recommend that as you learn a new concept in each course, apply
 the tool/math/concept to your own data!
 
+## How to contribute
+
+To add to this list of bioinformatics resources, the easiest way is to click "README.md" 
+above, then hit the "edit" button (it looks like a pencil):
+
+<img width="1269" alt="screen shot 2017-07-11 at 2 54 43 pm" src="https://user-images.githubusercontent.com/806256/28085413-ae480fe8-6649-11e7-9589-e9926b240d59.png">
+
+That will take you to a page that looks like this:
+
+<img width="1255" alt="screen shot 2017-07-11 at 3 00 41 pm" src="https://user-images.githubusercontent.com/806256/28085456-c823f918-6649-11e7-9b19-5caeeaa45401.png">
+
+Where you can edit THIS file in the "Markdown" format. Here is a [60-second introduction to Markdown](http://commonmark.org/help/)
+
+Once you're done, scroll to the bottom, add a quick summary of what you added, and click "Propose file change." We'll get back to you shortly!
+
+<img width="1256" alt="screen shot 2017-07-11 at 3 02 48 pm" src="https://user-images.githubusercontent.com/806256/28085548-0c4577ca-664a-11e7-9efe-d29b6ac5d124.png">
+
+
+
 ## What the tags mean
 
 - #book: hardcover or online book that has problems and explanations to follow
@@ -45,8 +64,6 @@ This is for people who feel ready to hit the ground running
 - [Coursera "Bioinformatics tag"](https://www.coursera.org/courses?query=bioinformatics&languages=en) #course
 - [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science),
   especially: #course
-  - [Python for Genomic Data Science](https://www.coursera.org/learn/python-genomics)
-    #course #python
   - [Command Line Tools for Genomic Data Science](https://www.coursera.org/learn/genomic-tools)
     #course #unix
 - [How to think like a computer scientist](http://www.openbookproject.net/thinkcs/python/english2e/)
@@ -74,7 +91,9 @@ This is for people who feel ready to hit the ground running
 - [The Art of Computer Programming](https://www.amazon.com/Computer-Programming-Volumes-1-4A-Boxed/dp/0321751043)
   \- A classic text describing the fundamental algorithms of storing and
   transforming information.
-
+- [Data Structures](https://stepik.org/course/Data-Structures-579) #book
+- [How do I learn machine learning?]
+  
 ## Advanced
 
 - [10-minute tutorials for AWS](https://aws.amazon.com/getting-started/tutorials/) #tutorial
