@@ -11,8 +11,7 @@ For lesson plans, check :
 - Python Data Science Handbook
 
 
-[TOC]: # "Table of contents"
-
+[[_TOC_]]
 
 
 ## Getting set up
