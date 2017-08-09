@@ -27,3 +27,6 @@ Here is the plan for today's first lesson in bioinformatics.
 3. Change to the CCC folder
 4. Launch the Jupyter Notebook from this folder with the command `jupyter
    notebook`
+
+['Answer key'](https://github.com/czbiohub/learn-bioinformatics/blob/master/notebooks/000_read_plate_concentrations.ipynb)
+of what we'll be doing with the notebooks.
