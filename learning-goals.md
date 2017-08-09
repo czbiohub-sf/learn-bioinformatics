@@ -10,21 +10,56 @@ For lesson plans, check :
 - Python for Biologists
 - Python Data Science Handbook
 
+[TOC]: #
 
-[[_TOC_]]
+# Table of Contents
+- [Proposed schedule](#proposed-schedule)
+- [Brainstorming](#brainstorming)
+    - [Getting set up](#getting-set-up)
+    - [External resources](#external-resources)
+- [Potential project-driven tasks](#potential-project-driven-tasks)
+    - [Given a list of genes, get their enriched promoter motifs](#given-a-list-of-genes-get-their-enriched-promoter-motifs)
+    - [Amy - Assembling contigs](#amy---assembling-contigs)
+    - [Plotting](#plotting)
+    - [Collaboration (git)](#collaboration-git)
+- [Command line tools](#command-line-tools)
+    - [Unix basics](#unix-basics)
+    - [Makefiles](#makefiles)
+    - [Grep](#grep)
+    - [Awk](#awk)
+    - [Git](#git)
+    - [bedtools](#bedtools)
 
 
-## Getting set up
+## Proposed schedule
+
+1. Week 1. Goal:
+    2.
+   1. Install Anaconda Python - Ahead of time
+   2. Start a Jupyter notebook -
+   3. Change default fonts
+   4.
+
+## Brainstorming
+
+### Getting set up
 
 Installing ...
 
 - Anaconda Python
-- Atom text editor
+- PyCharm editor
 - git
 - Starting up a Jupyter notebook
 - Changing the default font (because with Courier you can't tell the difference
-  between 1 "one" and l "ell" )
-- 
+  between 1 "one" and l "ell")
+    - Hack is nice
+- Environments??
+
+### External resources
+
+- Googling
+- Stackoverflow
+- Biostars
 
 ## Potential project-driven tasks
 
@@ -62,7 +97,12 @@ How can students have ownership?
 How can students have ownership?
 
 - Use contigs from something they created
-- 
+
+### Plotting
+
+- Get metadata from MACA
+- Convert date strings eg `"170517"` to an actual date
+- Make histograms of how often something was made
 
 
 ### Collaboration (git)
@@ -76,23 +116,23 @@ steps, where steps 1 and 2 are independent and feed into 3.
 ### Unix basics
 Modify Software Carpentry lessons
 
-- Ls
+- ls
     - Anatomy of a command
     - Ls -l
     - Ls -lh
-- Chmod
+- chmod
     - Octal codes
     - Chmod 775
     - Chmod ug+r
     - Chmod og-w
-- Cd
+- cd
 - pwd
-- Mkdir
-    - Mkdir folder/subfolder
-- Head
-    - Head -n 17
-- Less
-    - Less -S
+- mkdir
+    - mkdir folder/subfolder
+- head
+    - head -n 17
+- less
+    - less -S
 - Tail
     - Tail -n 2
 - Echo
