@@ -79,6 +79,7 @@ This is for people who feel ready to hit the ground running
 - [swirl](http://swirlstats.com/) - Interactive R programming courses in the R
   console #course #r
 - [Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)#tutorial
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - Quick reference for GitHub-flavored markdown #tutorial #markdown #GitHub
 
 ## Intermediate
 
